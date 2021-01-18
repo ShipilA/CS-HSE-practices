@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerReview4", "PeerReview4\PeerReview4.csproj", "{43CD9095-CB1F-4B13-B81B-B20F6E9AE5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CD9095-CB1F-4B13-B81B-B20F6E9AE5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CD9095-CB1F-4B13-B81B-B20F6E9AE5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CD9095-CB1F-4B13-B81B-B20F6E9AE5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CD9095-CB1F-4B13-B81B-B20F6E9AE5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F7711E9-3849-4590-B536-A47A3002E7CC}
+	EndGlobalSection
+EndGlobal

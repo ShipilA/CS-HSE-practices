@@ -1,0 +1,13 @@
+D:\HSE\C#\PeerReview4\PeerReview4\bin\Debug\netcoreapp3.1\PeerReview4.exe
+D:\HSE\C#\PeerReview4\PeerReview4\bin\Debug\netcoreapp3.1\PeerReview4.deps.json
+D:\HSE\C#\PeerReview4\PeerReview4\bin\Debug\netcoreapp3.1\PeerReview4.runtimeconfig.json
+D:\HSE\C#\PeerReview4\PeerReview4\bin\Debug\netcoreapp3.1\PeerReview4.runtimeconfig.dev.json
+D:\HSE\C#\PeerReview4\PeerReview4\bin\Debug\netcoreapp3.1\PeerReview4.dll
+D:\HSE\C#\PeerReview4\PeerReview4\bin\Debug\netcoreapp3.1\PeerReview4.pdb
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.csprojAssemblyReference.cache
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.AssemblyInfoInputs.cache
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.AssemblyInfo.cs
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.csproj.CoreCompileInputs.cache
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.dll
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.pdb
+D:\HSE\C#\PeerReview4\PeerReview4\obj\Debug\netcoreapp3.1\PeerReview4.genruntimeconfig.cache
